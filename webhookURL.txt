@@ -1,0 +1,3 @@
+MongoDB Stitch HTTP service webhook URL:
+
+https://webhooks.mongodb-stitch.com/api/client/v2.0/app/ruhacksapp-uspdy/service/http/incoming_webhook/webhook0
