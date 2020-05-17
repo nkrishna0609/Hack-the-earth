@@ -9,7 +9,8 @@ export default class app extends Component {
         this.state = {
             count1: 0,
             count2: 0,
-            count3: 0
+            count3: 0,
+            count4: 0
         };
     }
     componentDidMount() {
@@ -21,13 +22,15 @@ export default class app extends Component {
         this.setState({
             count1: response.data[1]['currentPopulation'],
             count2: response.data[3]['numEnter'],
-            count3: response.data[0]['numExit']
+            count3: response.data[0]['numExit'],
+            count4: response.data[2]['maxCapacity']
         });
     };
     render() {
         return (
             <div className="part2">
                 <h1>People Counter</h1>
+                {this.state.count1>=this.state.count4 ? <h2>Alert: People Limit Reached</h2> : <h2>Within Limit</h2>}
                 <h3>Number of People in Store</h3>
                 <h3>{this.state.count1}</h3>
                 <h3>Number of People Entered</h3>
