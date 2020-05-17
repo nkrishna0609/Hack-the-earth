@@ -4,10 +4,9 @@ exports = async function(payload) {
     const mongodb = context.services.get("mongodb-atlas");
     const mycollection = mongodb.db("store_db").collection("numInStore");
     const q = {"docNum": "4"};
-    const { numEnter } = payload.query;
     const update = {
       "$set": {
-      "numEnter": numEnter
+      "numEnter": payload.query
       }
     };
     return mycollection.updateOne(q, update).then(result => {
