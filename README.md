@@ -56,7 +56,7 @@ We were able to grasp a better understanding of React, MongoDB, OpenCV, and Ardu
 was indeed challenging, however, this forced us to grasp a better understanding of how all these components communicate with each 
 other. Finally, we learned that regardless of the hurdles, we are able to accomplish anything if we put our minds to it.
 
-## What's next for RUHacks2020 project ##
+## What's next for SafeSpaceShop ##
 SafeSpaceShop can be continued to be deployed in all stores all across the world. We can add more features to help maintain social 
 distancing by using cameras to check if customers within the store are maintaining a distance of 6 feet between each other. Post 
 COVID-19, SafeSpaceShop can be continued to be used as a way of reducing overcrowding in stores.
