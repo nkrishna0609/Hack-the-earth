@@ -1,3 +1,9 @@
 MongoDB Stitch HTTP service webhook URLs
 
 Database Retrieval: https://webhooks.mongodb-stitch.com/api/client/v2.0/app/ruhacksapp-uspdy/service/http/incoming_webhook/getter
+
+Database Set numEnter: https://webhooks.mongodb-stitch.com/api/client/v2.0/app/ruhacksapp-uspdy/service/http/incoming_webhook/numEnterUpdater
+
+Database Set numExit: https://webhooks.mongodb-stitch.com/api/client/v2.0/app/ruhacksapp-uspdy/service/http/incoming_webhook/numExitUpdater
+
+Database Set populationStore: https://webhooks.mongodb-stitch.com/api/client/v2.0/app/ruhacksapp-uspdy/service/http/incoming_webhook/populationStoreUpdater
