@@ -4,6 +4,8 @@
 
 **An automated system which controls the flow of customers in a store and helps manage lengthy lineups which arise due to COVID-19 social distancing principles.**
 
+![logo](https://github.com/rachelwuuu/RUHacks-2020/blob/master/demoPics/ruhacks%20logo.PNG)
+
 Devpost: *[https://devpost.com/software/ruhacks2020-project](https://devpost.com/software/ruhacks2020-project)*
 
 YouTube Online Demo: *[https://www.youtube.com/watch?v=0B0BDfz--Zw&feature=emb_title](https://www.youtube.com/watch?v=0B0BDfz--Zw&feature=emb_title)*
