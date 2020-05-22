@@ -4,7 +4,7 @@
 
 **An automated system which controls the flow of customers in a store and helps manage lengthy lineups which arise due to COVID-19 social distancing principles.**
 
-*- Awarded 'Best Public Health Hack' at Hack the Earth 2020*
+*Awarded 'Best Public Health Hack' at Hack the Earth 2020*
 
 ![logo](https://github.com/rachelwuuu/RUHacks-2020/blob/master/demoPics/ruhacks%20logo.PNG)
 
