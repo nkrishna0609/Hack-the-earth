@@ -1,6 +1,8 @@
-# SafeSpaceShop
+# SafeSpaceShop - Hack the Earth 2020 Project
 
 *- Niranjan Krishnaswamy, Krishdev Sutar, Rachel Ruoxuan Wu*
+
+*- Awarded 'Best Public Health Hack' at Hack the Earth 2020*
 
 **An automated system which controls the flow of customers in a store and helps manage lengthy lineups which arise due to COVID-19 social distancing principles.**
 
